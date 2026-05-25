@@ -1,5 +1,6 @@
 # 💫 About Me:
-⚡ Skills<br><br>Python (Advanced)<br><br>C, C++<br><br>Web Development: HTML, CSS, JavaScript, PHP<br><br>Data Science: Pandas, NumPy, Data Analysis<br><br>🎯 Focus<br><br>Clean code • Logic building • Real-world projects • Continuous learning
+⚡ Skills<br><br>Python (Advanced)<br><br>C, C++<br><br>Web Development: HTML, CSS, JavaScript, PHP<br><br>Data Science: Pandas, NumPy,
+ <br> 📊🏭Data Analysis 🔥🧨<br><br>🎯 Focus<br><br>Clean code • Logic building • Real-world projects • Continuous learning
 
 
 # 💻 Tech Stack:
